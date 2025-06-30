@@ -120,6 +120,10 @@ body{
         bottom: auto;
     }
 }
+.contact-img{
+    width: 250px;
+    text-align: center;
+  }
 
 /* RESPONSIVE */
 @media (min-width: 320px) and (max-width: 767px) { 
